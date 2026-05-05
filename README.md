@@ -36,7 +36,7 @@ Missing observations were excluded using complete-case analysis.
 
 ## Final Report
 The full report for this project is available here:  
-👉 [Final Report]([VTPEH6270-Final-Report.pdf](https://github.com/luoevelyn3/VTPEH6270-FinalReport/tree/main/Final%20Report))
+👉 [Final Report]([[VTPEH6270-Final-Report.pdf](https://github.com/luoevelyn3/VTPEH6270-FinalReport/tree/main/Final%20Report)](https://github.com/luoevelyn3/VTPEH6270-FinalReport/blob/main/Final%20Report/VTPEH6270-Final-Report.pdf))
 
 ---
 
