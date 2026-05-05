@@ -1,2 +1,25 @@
 # VTPEH6270-FinalReport
 Shiny app for exploring county-level health and demographic data
+
+# County-Level Health and Demographic Explorer
+
+## Overview
+This project explores associations between county-level demographic characteristics and health outcomes across U.S. counties. The goal is to support exploratory public health analysis by identifying patterns in aging, socioeconomic conditions, and health status.
+
+## Author
+Yuhui Luo
+
+## Data Source
+County-level dataset from the course project (includes demographic and health indicators across U.S. counties).
+
+## Methods
+Users select two numeric variables to:
+- Visualize relationships using a scatter plot with a fitted linear trend
+- Examine the distribution of the outcome variable using a histogram
+- Review summary statistics (mean, SD, correlation, sample size)
+
+## Shiny App
+To run the app locally:
+
+```r
+shiny::runApp("my_shiny_app")
