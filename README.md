@@ -44,7 +44,7 @@ The full report for this project is available here:
 An interactive Shiny application was developed to explore the dataset.
 
 👉 Live App:  
-[https://your-shiny-link-here](https://yl42.shinyapps.io/my_shiny_app/)
+[https://my-shiny-link-here](https://yl42.shinyapps.io/my_shiny_app/)
 
 The application allows users to:
 - Select variables for analysis  
